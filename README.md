@@ -1,6 +1,6 @@
-# Youtube Downloader bot 
+# Y-Osmani Downloader bot 
 
-## Bot Ini Bisa Mendownload Dari Youtube Via telegram
+## Y-Osmani Downloader Waa Bot Kuu sahlaayo In aad Muqal Kala Dagto Youtube ka.
 ## Prerequisite
     ffmpeg
   
@@ -15,12 +15,12 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
-* [Rio](github.com/rioprojectx)
+* [Ribaj](https://telegram.dog/meribaj)
+* [Osmani Bot](https://telegram.dog/osmanibots)
+* [Osmani Pro](github.com/OsmaniPro)
 # Host
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioprojectx/Youtube-Downloader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/Youtube-Downloader/tree/master)
 
 ## Join
-* [Channel](t.me/rioprojects)
-* [Group](t.me/riogroupsupport)
+* [Channel](t.me/osmanibots)
+* [Group](t.me/osmanigroupbot)
