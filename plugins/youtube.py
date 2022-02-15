@@ -36,8 +36,8 @@ async def ytdl(_, message):
     buttons = InlineKeyboardMarkup(list(create_buttons(formats)))
     sentm = await message.reply_text("Processing Youtube Url 🔎 🔎 🔎")
     try:
-        # Todo add webp image support in thumbnail by default not supported by pyrogram
-        # https://www.youtube.com/watch?v=lTTajzrSkCw
+        # Todo add webp image support in thumbnail by default not supported by @meribaj
+        # https://youtu.be/t8Zs3PHP_80
         img = wget.download(thumbnail_url)
         im = Image.open(img).convert("RGB")
         output_directory = os.path.join(os.getcwd(), "downloads", str(message.chat.id))
@@ -50,7 +50,7 @@ async def ytdl(_, message):
     except Exception as e:
         print(e)
         try:
-            thumbnail_url = "https://telegra.ph/file/ce37f8203e1903feed544.png"
+            thumbnail_url = "https://telegra.ph/file/8526240b90a36dd730569.jpg"
             await message.reply_photo(thumbnail_url, caption=title, reply_markup=buttons)
         except Exception as e:
             await sentm.edit(
