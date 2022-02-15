@@ -19,7 +19,7 @@
 * [Osmani Bot](https://telegram.dog/osmanibots)
 * [Osmani Pro](github.com/OsmaniPro)
 # Host
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/Youtube-Downloader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioprojectx/Youtube-Downloader/tree/master)
 
 ## Join
 * [Channel](t.me/osmanibots)
